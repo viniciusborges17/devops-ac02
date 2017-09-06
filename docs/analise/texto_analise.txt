@@ -1,0 +1,2 @@
+A área de análise de dados está muito em voga atualmente no mercado, seja para processos de tomada de decisão, seja para alinhamento de comunicação com públicos alvos ou, ainda, no meio científico, como na bioestatística, que ganha destaque devido ao projeto genôma.
+O profissional dessa área deve possuir os mais diversos conhecimentos em tecnologias de estatística (descritiva, probabilidade e inferência), como Excel, Acsess, SQL server, etc. além de possuir um bom conhecimento em linguagem geralmente utilizados para processos estatísticos, como Python e R.
