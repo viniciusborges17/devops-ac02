@@ -1,0 +1,7 @@
+Teste é o processo de revisão de especificações, projeto ou programas que visa identificar,
+o mais cedo possível, o maior número de falhas que foram introduzidas inadvertidamente no
+decorrer do desenvolvimento do projeto. 
+Inclui qualquer técnica para controle de qualidade e geralmente é implementado através de
+verificação ou validação.Verificação refere­se a coerência entre os resultados obtidos  em
+relação aos esperados enquanto a validação é o ato de confrontar o requisito especificado e o
+que foi implementado.
